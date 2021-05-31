@@ -1,6 +1,5 @@
 Algoritmo "prototipo-atividadepratica"
 // Disciplina   : [Algoritmos I]
-// Professor   : Ciro Cirne Trindade
 // Autor(a)    : Vitor Cordeiro Paes Prieto
 // Data atual  : 08/05/2021
 Var
