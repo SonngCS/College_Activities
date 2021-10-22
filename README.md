@@ -20,6 +20,7 @@ This problem involves a imaginary telephone company which is trying to spend les
 Example:
 The numbers 535456, 535488, 536566 e 835456 will be placed:
 
+
 5 3 5 4 5 6
 
         8 8
