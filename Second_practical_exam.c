@@ -1,8 +1,7 @@
 /*
 Universidade Católica de Santos
 Aluno: Vitor Cordeiro Paes Prieto
-N° de Matrícula: 6204033
-Projeto de Algoritmos - Atividade Prática 1
+Projeto de Algoritmos
 */
 
 #include <stdio.h>
