@@ -5,11 +5,11 @@
 
 /*
 PROGRAMAÇÃO DE COMPUTADORES
-Integrantes e número de matrícula:
+Integrantes:
 Matheus Emmanuel 7129437
-Victor Jacinto dos Santos 3109272
-victor Henrique Menegasso 5283230
-Vitor Cordeiro Paes Prieto 6204033
+Victor Jacinto dos Santos 
+victor Henrique Menegasso 
+Vitor Cordeiro Paes Prieto 
 */
 
 void opcao_e_saida(int, char[1347][100], int[1347][3], bool);
