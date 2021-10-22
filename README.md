@@ -11,3 +11,18 @@ The program was written in a language (Pseudo code) called "Portugol". The IDE u
 # Group Activity -Algorithms and Computer programming
 
 This program has the objective to read a cvs file which has data from brazil's measles vaccination on recent years. From this file, the piece of code has to give some informations and generate some outputs, depending on the user's choice.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Second Practical exam -Algorithm projects
+
+This problem involves a imaginary telephone company which is trying to spend less when printing the clients' numbers. The logic applied to do that is by omitting repeating numbers (from the first digits of the second number of the list).
+
+Example:
+The numbers 535456, 535488, 536566 e 835456 will be placed:
+
+5 3 5 4 5 6
+        8 8
+    6 5 6 6
+8 3 5 4 5 6
+
+The program, as output, must give us the number of digits that can be omitted.
