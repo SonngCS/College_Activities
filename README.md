@@ -21,8 +21,11 @@ Example:
 The numbers 535456, 535488, 536566 e 835456 will be placed:
 
 5 3 5 4 5 6
+
         8 8
+        
     6 5 6 6
+    
 8 3 5 4 5 6
 
 The program, as output, must give us the number of digits that can be omitted.
