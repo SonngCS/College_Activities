@@ -8,3 +8,6 @@ The objective of the program is to gather the data of the first and second doses
 
 The program was written in a language (Pseudo code) called "Portugol". The IDE used was "Visualg".
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Group Activity -Algorithms and Computer programming
+
+This program has the objective to read a cvs file which has data from brazil's measles vaccination on recent years. From this file, the piece of code has to give some informations and generate some outputs, depending on the user's choice.
