@@ -24,7 +24,7 @@ This program has the objective to read a cvs file which has data from brazil's m
 
 # Second Practical exam -Algorithm projects
 
-This problem involves a imaginary telephone company which is trying to spend less when printing the clients' numbers. The logic applied to do that is by omitting repeating numbers (from the first digits of the second number of the list).
+This problem involves a imaginary telephone company which is trying to spend less when printing the clients' numbers. The logic applied to do that is by omitting repeating numbers (from the first digits of the second number of the list). Each telephone number may have c digits, with  0 < c <= 200; each list of numbers can have up to 100000 numbers (one in each row). A telephone number can start with a 0 but if the imput for the list's size is 0, the program should end.
 
 Example:
 The numbers 535456, 535488, 536566 e 835456 will be placed:
