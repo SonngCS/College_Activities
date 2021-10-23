@@ -6,7 +6,7 @@
 /*
 PROGRAMAÇÃO DE COMPUTADORES
 Integrantes:
-Matheus Emmanuel 7129437
+Matheus Emmanuel
 Victor Jacinto dos Santos 
 victor Henrique Menegasso 
 Vitor Cordeiro Paes Prieto 
