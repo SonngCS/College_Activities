@@ -41,4 +41,5 @@ Last number:  8 3 5 4 5 6
 Total digits omitted: 6
 
 The program, as output, must give us the number of digits that can be omitted.
+
 PS: This was my first attempt and the best solution possible for this problem differs from mine by using sorting algorithms, as quick sort, to organize the numbers in the list. This way the program should take much less execution time.
