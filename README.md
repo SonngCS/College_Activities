@@ -1,4 +1,4 @@
-~Here I will post some of my solutions for activities and exams I take.~
+Here I will post some of my solutions for activities and exams I take.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # First practical exam -algorithms- #
