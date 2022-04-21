@@ -1,4 +1,4 @@
-Here I will post some of my solutions for activities and exams I take.
+Here I will post some of my solutions for activities and exams from college (the semester in which I was on at the time is stated above the descriptions of the questions).
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # First practical exam -algorithms- (made on my first semester) #
