@@ -1,7 +1,7 @@
 # Here I will post some of my solutions for activities and exams from college (the semester on which I was at the time is stated above the descriptions of the questions).
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-First practical exam -algorithms- (made on my first semester)
+# First practical exam -algorithms- (made on my first semester)
 
 This code is written in the pseudo programming language "Portugol" and takes an integer "n" (total population of a city) and another integer "m" (total of months with covid vaccination). The objective of the program is to gather the data of the first and second doses of the covid vaccine taken (m lines representing the first doses, each line corresponding to a month, and m lines for the second doses). As an answer we must receive two percentages based on the total population: one representing the people who took the first dose and another for the people who received the second. Afterward, the program must say which months had the most vaccinated people (one line for the first dose and another for the second).
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
