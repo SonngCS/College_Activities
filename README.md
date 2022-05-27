@@ -37,3 +37,7 @@ Total digits omitted: 6
 The program, as output, must give us the number of digits that can be omitted.
 
 PS: This was one of my first attempts and the best solution for this problem differs from mine by using sorting algorithms (such as quick sort) to organize the numbers in the list, taking much less execution time as the result.
+
+# DataStructures
+
+This directory contains codes and files made for my ds classes.
