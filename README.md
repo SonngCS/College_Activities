@@ -41,3 +41,4 @@ PS: This was one of my first attempts and the best solution for this problem dif
 # DataStructures
 
 This directory contains codes and files made for my ds classes.
+OBS: Some of the contents' names were written in portuguese; "fila" is equal to "queue" and "pilha" is equal to "stack"
