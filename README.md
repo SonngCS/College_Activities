@@ -44,6 +44,6 @@ PS: This was one of my first attempts and the best solution for this problem dif
 This directory contains codes and files made for my ds classes.
 OBS: Some of the contents' names were written in portuguese; "fila" is equal to "queue" and "pilha" is equal to "stack"
 
-# TP2-  (Made on my third semester)
+# Data structures/C/TP2-  (Made on my third semester)
 
 This program reads a CSV file and stores its contents inside an avl tree (sorted by the chosen column). As of today, you can search for a specific key, add another row and reload the tree with another ordering column. The delete function is incomplete.
