@@ -47,3 +47,5 @@ OBS: Some of the contents' names were written in portuguese; "fila" is equal to 
 # Data structures/C/TP2-  (Made on my third semester)
 
 This program reads a CSV file and stores its contents inside an avl tree (sorted by the chosen column). As of today, you can search for a specific key, add another row, reload the tree with another ordering column and save the contents of the current avlt tree in a new csv file. The delete function is incomplete.
+
+Known problems: Everytime the avl tree is rewritten with a new ordering column the ram consumption doubles.
