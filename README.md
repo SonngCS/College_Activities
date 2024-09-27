@@ -1,7 +1,7 @@
 
 
 
-# Here I will post some of my solutions for activities and exams from college (the semester on which I was at the time is stated above the descriptions of the questions).
+# Here I will post some of my solutions for activities and exams from college (the semester on which I was at the time is stated above the descriptions of the questions) and personal learning projects.
 
 
 
